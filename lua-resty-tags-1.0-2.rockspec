@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-tags"
-version = "1.0-1"
+version = "1.0-2"
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.0-2",
   url = "git://github.com/LuaDist-testing/lua-resty-tags.git"
 }
 -- Original source
@@ -14,7 +14,7 @@ source = {
 -- }
 description = {
     summary = "A small DSL for building HTML documents",
-    detailed = "lua-tags-template is a csmall DSL for building HTML documents using simple Lua structures.",
+    detailed = "lua-tags-template is a small DSL for building HTML documents using simple Lua structures.",
     homepage = "https://github.com/bungle/lua-resty-tags",
     maintainer = "Aapo Talvensaari <aapo.talvensaari@gmail.com>",
     license = "BSD"
